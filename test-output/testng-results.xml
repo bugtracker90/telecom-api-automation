@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-09T12:58:47 IST" name="Default suite" finished-at="2026-03-09T12:58:57 IST" duration-ms="10456">
+    <groups>
+    </groups>
+    <test started-at="2026-03-09T12:58:47 IST" name="Default test" finished-at="2026-03-09T12:58:57 IST" duration-ms="10456">
+      <class name="TelecomFlowTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TelecomFlowTests@59662a0b]" started-at="2026-03-09T12:58:47 IST" name="setup" finished-at="2026-03-09T12:58:47 IST" duration-ms="476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addUser()[pri:1, instance:TelecomFlowTests@59662a0b]" started-at="2026-03-09T12:58:47 IST" name="addUser" finished-at="2026-03-09T12:58:51 IST" duration-ms="3896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUser -->
+        <test-method signature="addContact()[pri:2, instance:TelecomFlowTests@59662a0b]" started-at="2026-03-09T12:58:51 IST" name="addContact" finished-at="2026-03-09T12:58:53 IST" duration-ms="1539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method signature="getContactList()[pri:3, instance:TelecomFlowTests@59662a0b]" started-at="2026-03-09T12:58:53 IST" name="getContactList" finished-at="2026-03-09T12:58:54 IST" duration-ms="1521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContactList -->
+        <test-method signature="getContact()[pri:4, instance:TelecomFlowTests@59662a0b]" started-at="2026-03-09T12:58:54 IST" name="getContact" finished-at="2026-03-09T12:58:55 IST" duration-ms="1455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContact -->
+        <test-method signature="logoutUser()[pri:5, instance:TelecomFlowTests@59662a0b]" started-at="2026-03-09T12:58:56 IST" name="logoutUser" finished-at="2026-03-09T12:58:57 IST" duration-ms="1509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutUser -->
+      </class> <!-- TelecomFlowTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
